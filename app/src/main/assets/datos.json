@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-03-29T14:30:00Z",
+  "dato": {
+    "tipo": "ejemplo",
+    "contenido": {
+      "dato1": "valor1",
+      "dato2": "valor2",
+      "dato3": "valor3"
+    }
+  }
+}
